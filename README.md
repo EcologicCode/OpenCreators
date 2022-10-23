@@ -1,2 +1,2 @@
 # OpenCreators
- L'IDE basé sur Qt par EcologicCode.
+ L'IDE basé sur Qt par EcologicCode
